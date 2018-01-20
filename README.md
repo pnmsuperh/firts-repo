@@ -1,0 +1,2 @@
+# firts-repo
+Zad1. 
